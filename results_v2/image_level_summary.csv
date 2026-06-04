@@ -1,0 +1,4 @@
+preprocessing,entropy,sobel_energy,mean_intensity,std_intensity
+clahe,4.5997,0.5048,0.2863,0.2561
+ghe,3.9375,0.5349,0.4451,0.3022
+raw,4.0768,0.3177,0.1867,0.1825

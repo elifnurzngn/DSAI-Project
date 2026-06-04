@@ -1,0 +1,13 @@
+preprocessing,class,entropy,sobel_energy
+clahe,glioma,4.2703,0.3972
+clahe,meningioma,4.5721,0.4555
+clahe,notumor,4.5831,0.6168
+clahe,pituitary,4.9734,0.5497
+ghe,glioma,3.6221,0.4513
+ghe,meningioma,3.891,0.4708
+ghe,notumor,3.9662,0.6017
+ghe,pituitary,4.2709,0.6157
+raw,glioma,3.7416,0.2324
+raw,meningioma,4.0377,0.2813
+raw,notumor,4.1235,0.4382
+raw,pituitary,4.4044,0.3188
